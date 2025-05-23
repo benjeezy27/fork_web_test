@@ -8,7 +8,7 @@ body {
     width:100vw;
     height:100vh;
     overflow:hidden;
-    font-family: 'Times New Roman', Times New Roman;
+    font-family: 'Times New Roman', Times, serif;
 }
 #loading {
     width: 100vw;
@@ -235,7 +235,7 @@ body {
 }
 .btn_one {
     font-size:18px;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     color:#fff;
     background:transparent;
     border:3px solid #fff;
@@ -252,7 +252,7 @@ body {
 }
 .btn_two {
     font-size:18px;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     color:rgb(7, 7, 7);
     background:#fff;
     border:3px solid #fff;
